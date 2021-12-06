@@ -26,3 +26,10 @@
 *.exe
 *.out
 *.app
+
+/build
+/bin
+/lib
+/doc
+
+.DS_Store

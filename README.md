@@ -1,3 +1,6 @@
+![nswc](media/nswc.png)
+============
+
 ### NSWC Mathematical Library
 
 The NSWC Mathematics Subroutine Library is a collection of Fortran
